@@ -1,0 +1,41 @@
+# Ignorar las carpetas de metadatos de Anypoint Studio
+.metadata/
+.mule/
+
+# Ignorar archivos de configuración del sistema
+*.DS_Store
+Thumbs.db
+
+# Ignorar archivos de compilación y paquetes
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.zip
+*.tar.gz
+*.rar
+
+# Ignorar la carpeta de destino que se genera al compilar el proyecto
+target/
+
+# Ignorar los archivos y carpetas de configuración del IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+bin/
+
+# Ignorar los archivos de registro
+*.log
+
+# Ignorar los archivos temporales
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.recommenders
