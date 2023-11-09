@@ -15,3 +15,7 @@ MuleSoft is a comprehensive integration platform designed to facilitate the conn
 ## Hello Mule
 
 1. <a href="./Notes/2 - Hello World/1 - Hello World.md">Hello Mule</a>
+
+## Setting Up Global Elements and Properties in Anypoint Studio
+
+2. <a href="./Notes/3 - Setting Up Global Elements and Properties in Anypoint Studio/1 - Setting Up Global Elements and Properties in Anypoint Studio.md">Setting Up Global Elements and Properties in Anypoint Studio</a>
