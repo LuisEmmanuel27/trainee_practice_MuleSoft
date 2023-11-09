@@ -11,3 +11,7 @@ MuleSoft is a comprehensive integration platform designed to facilitate the conn
 ## First Steps
 
 1. <a href="./Notes/1 - First Steps/1 - Download and Install.md">Download and Install</a>
+
+## Hello Mule
+
+1. <a href="./Notes/2 - Hello World/1 - Hello World.md">Hello Mule</a>
