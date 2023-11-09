@@ -1,12 +1,12 @@
-# Ignorar las carpetas de metadatos de Anypoint Studio
+# Ignore Anypoint Studio metadata folders
 .metadata/
 .mule/
 
-# Ignorar archivos de configuración del sistema
+# Ignore system configuration files
 *.DS_Store
 Thumbs.db
 
-# Ignorar archivos de compilación y paquetes
+# Ignore compilation and package files
 *.class
 *.jar
 *.war
@@ -16,10 +16,10 @@ Thumbs.db
 *.tar.gz
 *.rar
 
-# Ignorar la carpeta de destino que se genera al compilar el proyecto
+# Ignore target folder generated during project compilation
 target/
 
-# Ignorar los archivos y carpetas de configuración del IDE
+# Ignore IDE configuration files and folders
 .idea/
 *.iml
 *.iws
@@ -29,10 +29,10 @@ target/
 .settings/
 bin/
 
-# Ignorar los archivos de registro
+# Ignore log files
 *.log
 
-# Ignorar los archivos temporales
+# Ignore temporary files
 *.tmp
 *.bak
 *.swp
