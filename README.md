@@ -10,12 +10,16 @@ MuleSoft is a comprehensive integration platform designed to facilitate the conn
 
 ## First Steps
 
-1. <a href="./Notes/1 - First Steps/1 - Download and Install.md">Download and Install</a>
+-   <a href="./Notes/1 - First Steps/1 - Download and Install.md">Download and Install</a>
 
 ## Hello Mule
 
-1. <a href="./Notes/2 - Hello World/1 - Hello World.md">Hello Mule</a>
+-   <a href="./Notes/2 - Hello World/1 - Hello World.md">Hello Mule</a>
 
 ## Setting Up Global Elements and Properties in Anypoint Studio
 
-2. <a href="./Notes/3 - Setting Up Global Elements and Properties in Anypoint Studio/1 - Setting Up Global Elements and Properties in Anypoint Studio.md">Setting Up Global Elements and Properties in Anypoint Studio</a>
+-   <a href="./Notes/3 - Setting Up Global Elements and Properties in Anypoint Studio/1 - Setting Up Global Elements and Properties in Anypoint Studio.md">Setting Up Global Elements and Properties in Anypoint Studio</a>
+
+## Secure properties before deployment
+
+-   <a href="./Notes/4 - Secure properties before deployment/1- Secure properties before deployment.md">Secure properties before deployment in Anypoint Studio</a>

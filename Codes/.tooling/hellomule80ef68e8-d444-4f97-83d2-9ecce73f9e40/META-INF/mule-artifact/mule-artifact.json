@@ -7,16 +7,18 @@
   "redeploymentEnabled": true,
   "name": "com.mycompany:hellomule:1.0.0",
   "minMuleVersion": "4.5.0",
-  "requiredProduct": "MULE",
+  "requiredProduct": "MULE_EE",
   "classLoaderModelLoaderDescriptor": {
     "id": "mule",
     "attributes": {
       "exportedPackages": [],
       "exportedResources": [
         "dev.properties",
+        "dev.secure.properties",
         "global.xml",
         "hellomule.xml",
         "local.properties",
+        "local.secure.properties",
         "log4j2.xml"
       ]
     }
