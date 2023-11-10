@@ -23,3 +23,7 @@ MuleSoft is a comprehensive integration platform designed to facilitate the conn
 ## Secure properties before deployment
 
 -   <a href="./Notes/4 - Secure properties before deployment/1- Secure properties before deployment.md">Secure properties before deployment in Anypoint Studio</a>
+
+## Set up API Autodiscovery
+
+-   <a href="./Notes/5 - Set up API Autodiscovery/1 - Set up API Autodiscovery.md">Set up API Autodiscovery in Anypoint Studio</a>
