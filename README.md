@@ -43,3 +43,7 @@ MuleSoft is a comprehensive integration platform designed to facilitate the conn
 ## Configure an HTTPS endpoint
 
 -   <a href="./Notes/9 - Configure an HTTPS endpoint/1 - Configure an HTTPS endpoint.md">Configure an HTTPS endpoint in Anypoint Studio</a>
+
+## Deploy from Anypoint Studio using Maven
+
+-   <a href="./Notes/10 - Deploy from Anypoint Studio using Maven/1 - Deploy from Anypoint Studio using Maven.md">Deploy from Anypoint Studio using Maven</a>
