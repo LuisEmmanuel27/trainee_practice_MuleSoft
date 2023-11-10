@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns:http="http://www.mulesoft.org/schema/mule/http" xmlns="http://www.mulesoft.org/schema/mule/core"
+	xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd">
+	<http:listener-config name="HTTP_Listener_config" doc:name="HTTP Listener config" doc:id="8185cd1b-13bd-4249-9846-d97bbab1df38" >
+		<http:listener-connection host="0.0.0.0" port="8081" />
+	</http:listener-config>
+	<flow name="maven-tutorialflowFlow" doc:id="ea3ded1f-b045-4762-8460-0e4a9b14133e" >
+		<http:listener doc:name="Listener" doc:id="6aeb2246-272c-4584-8837-d1baa272dfc3" config-ref="HTTP_Listener_config" path="/submit"/>
+		<set-payload value="Maven upload completed" doc:name="Set Payload" doc:id="7d308289-f911-4024-9a36-b331a587ab6d" />
+	</flow>
+</mule>
