@@ -35,3 +35,7 @@ MuleSoft is a comprehensive integration platform designed to facilitate the conn
 ## Best practices to design your first API Specification
 
 -   <a href="./Notes/7 - Best practices to design your first API Specification/1 - Best practices to design your first API Specification.md">Best practices to design your first API Specification</a>
+
+## Build your first API Specification with API Designer
+
+-   <a href="./Notes/8 - Build your first API Specification with API Designer/1- Build your first API Specification with API Designer.md">Build your first API Specification with API Designer</a>
