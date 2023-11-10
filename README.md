@@ -31,3 +31,7 @@ MuleSoft is a comprehensive integration platform designed to facilitate the conn
 ## Apply Client ID enforcement policy to your Mule app in API Manager
 
 -   <a href="./Notes/6 - Apply Client ID enforcement policy to your Mule app in API Manager/1 - Apply Client ID enforcement policy to your Mule app in API Manager.md">Apply Client ID enforcement policy to your Mule app in API Manager</a>
+
+## Best practices to design your first API Specification
+
+-   <a href="./Notes/7 - Best practices to design your first API Specification/1 - Best practices to design your first API Specification.md">Best practices to design your first API Specification</a>
