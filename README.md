@@ -27,3 +27,7 @@ MuleSoft is a comprehensive integration platform designed to facilitate the conn
 ## Set up API Autodiscovery
 
 -   <a href="./Notes/5 - Set up API Autodiscovery/1 - Set up API Autodiscovery.md">Set up API Autodiscovery in Anypoint Studio</a>
+
+## Apply Client ID enforcement policy to your Mule app in API Manager
+
+-   <a href="./Notes/6 - Apply Client ID enforcement policy to your Mule app in API Manager/1 - Apply Client ID enforcement policy to your Mule app in API Manager.md">Apply Client ID enforcement policy to your Mule app in API Manager</a>

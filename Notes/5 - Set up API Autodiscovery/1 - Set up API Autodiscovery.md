@@ -69,10 +69,11 @@ API Autodiscovery is a feature in Anypoint Studio that allows you to automatical
     <img src="../../Captures/Set Api Cap/9-muleApi.png"/>
 </div>
 
-3. Copy the `Client ID` and the `Client Secret` somewhere.
+3. Click on `Environments` > `Sandbox`, and copy the `Client ID` and the `Client Secret` somewhere.
 
 <div align="center">
     <img src="../../Captures/Set Api Cap/10-muleApi.png"/>
+    <figcaption>In my case, I took the IDs from the principal settings.</figcaption>
 </div>
 
 4. Now open the `Preferences` menu in `Anypoint Studio`. In my case, I have to search for it using the `Help` option and select `Anypoint Studio` > `API Manager`.
