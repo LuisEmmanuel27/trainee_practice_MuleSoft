@@ -39,3 +39,7 @@ MuleSoft is a comprehensive integration platform designed to facilitate the conn
 ## Build your first API Specification with API Designer
 
 -   <a href="./Notes/8 - Build your first API Specification with API Designer/1- Build your first API Specification with API Designer.md">Build your first API Specification with API Designer</a>
+
+## Configure an HTTPS endpoint
+
+-   <a href="./Notes/9 - Configure an HTTPS endpoint/1 - Configure an HTTPS endpoint.md">Configure an HTTPS endpoint in Anypoint Studio</a>
